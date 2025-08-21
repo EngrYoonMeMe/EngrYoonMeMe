@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/engr-yoon-me-me-b6b58824a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engr-yoon-me-me-b6b58824a" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Engr.YoonMeMe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engr.yoonmeme" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Engr.YoonMeMe-TechnologyGroup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engr.yoonmeme" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
