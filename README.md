@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Engr Yoon Me Me</h1>
 <h3 align="center">A passionate Cloud Engineer from Myanmar</h3>
 
-- 🌱 I’m currently learning **HTM,CSS,JavaScript,React,Python**
+- 🌱 I’m currently learning **AWS,Azure,GCP,HTM,CSS,JavaScript,React,Python**
 
 - 📫 How to reach me **engr.yoonmeme@gmail.com**
 
